@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply min-h-screen flex justify-center items-center m-6 bg-cyan-200
+}
